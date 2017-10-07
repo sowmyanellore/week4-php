@@ -69,8 +69,7 @@ echo "<br>";
 }
 
 
-function findLeapYearwhile($year)
-{
+
 echo "<br>10.Done with WHILE function";
 $i=0;
 while($i<count($year))
@@ -88,7 +87,7 @@ echo "<br>False";
 
 echo "<br>";
 }
-}
+
 echo "<br> 11. Done with SWITCH case";
 for ($i=0;$i<count($year);$i++)
 
